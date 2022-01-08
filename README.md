@@ -1,2 +1,2 @@
 # Lotto_Python
-Game Lotto, Python, Kivy.
+Game Lotto, Python, Kivy, KivyMD
