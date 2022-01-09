@@ -1,4 +1,4 @@
-# Lotto_Python
+# Lotto_Python_Game
 Game Lotto, Python, 
 GUI - Kivy, KivyMD
 
